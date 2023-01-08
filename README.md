@@ -1,14 +1,14 @@
 # Stunting-TomblokBot
 
-- Nama         : Imroatu Solicah
-- NIM          : 20.01.53.0002
-- Mata Kuliah  : Text Minning
+- Name : Imroatu Solicah
+- NIM : 20.01.53.0002
+- Course Subject: Text Mining
 
 ## Rules :
-1. Setelah download package, zip folder tersebut
-2. Buka folder pada `Sublime Text` atau `VSCode`
-3. Buka terminal console dan lakukan install package Telebot : `pip install pyTelegramBotAPI`
-3. Lalu jalankan program, dan buka Telegram anda.
+1. After downloading the package, zip the folder
+2. Open the folder under `Sublime Text` or `VSCode`
+3. Open a terminal console and install the Telebot package: `pip install pyTelegramBotAPI`
+3. Then run the program, and open your Telegram.
 
 ## Link Akses : 
 http://t.me/uasstunting02_bot
