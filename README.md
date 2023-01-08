@@ -2,7 +2,7 @@
 
 - Name : Imroatu Solicah
 - NIM : 20.01.53.0002
-- Course Subject: Text Mining
+- Course Subject : Text Mining
 
 ## Rules :
 1. After downloading the package, zip the folder
